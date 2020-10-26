@@ -3,4 +3,6 @@ The Catan Data Collector (CDC) is a C++ program that collects and interprets dat
 
 What I have now is crude, but the CDC still gathers some useful data. The CDC is a work-in-progress (WIP) and I hope to work on it more in the future, but this is what I have for now. 
 
+catandatacollector.cpp is the main executbale program and catandatacollector.h is the header file for catandatacollector.cpp. 
+
 It's important to note that this assignment wasn't assigned. As a student programmer it's very important to balance your academic programming with personal programming. That's how you learn. Pursue what you love to do and program it! You'll learn so much more. 
